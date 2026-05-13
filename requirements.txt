@@ -1,0 +1,8 @@
+# TODO: Python 依赖清单
+# MiMo API 调用: openai / httpx
+# OCR: paddleocr / easyocr
+# ASR: faster-whisper
+# RAG: langchain / llama-index
+# 向量数据库: pymilvus / qdrant-client
+# 文档解析: pymupdf / python-docx
+# Web: fastapi / uvicorn
