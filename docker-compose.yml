@@ -1,0 +1,6 @@
+# TODO: QiZhiHui Docker Compose 配置
+version: '3.8'
+
+services:
+  # TODO: 定义各服务配置
+  pass:
